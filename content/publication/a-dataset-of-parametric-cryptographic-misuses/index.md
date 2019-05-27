@@ -61,10 +61,10 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://zenodo.org/badge/latestdoi/163851392"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "2019_05_27_MSR_A-dataset-of-parametric-cryptographic-misuses.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -77,7 +77,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "The summary slide of the presentation."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
